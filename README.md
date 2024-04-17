@@ -4,7 +4,7 @@
   <img src="https://github.com/bsrahmat/ebook-01/blob/main/buku1.jpg" alt="" class="img-responsive" width="700">
 </p>
 
-### Alternative to download this e-book at::
+### Alternative to download this e-book at:
 
 - <a href="https://github.com/bsrahmat/ebook-01/blob/main/EBook01_Fuzzy_JST.pdf" target="_blank">EBook01_Fuzzy_JST.pdf</a>
 
