@@ -8,8 +8,8 @@
 
 - <a href="https://github.com/bsrahmat/ebook-01/blob/main/EBook01_Fuzzy_JST.pdf" target="_blank">EBook01_Fuzzy_JST.pdf</a>
 
-- <a href="https://www.academia.edu/115795927" target="_blank">https://www.academia.edu/115795927</a>
+- <a href="https://www.academia.edu/117609275" target="_blank">https://www.academia.edu/117609275</a>
 
-- <a href="https://www.researchgate.net/publication/378898855" target="_blank">https://www.researchgate.net/publication/378898855</a>
+- <a href="https://www.researchgate.net/publication/379870292" target="_blank">https://www.researchgate.net/publication/379870292</a>
 
 <br>
