@@ -1,4 +1,4 @@
-# E-Book-01: Fuzzy and Artificial Neural Networks Programming for Intelligent Control Systems
+# E-Book-01: Fuzzy and Artificial Neural Networks Programming for Intelligent Control Systems (Indonesian version)
 
 <p align="center">
   <img src="https://github.com/bsrahmat/ebook-01/blob/main/buku1.jpg" alt="" class="img-responsive" width="700">
