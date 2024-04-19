@@ -25,6 +25,15 @@
 
 <br>
 
+### The complete source code for the programs in this book can be downloaded here:
+
+- <a href="https://github.com/bsrahmat/fuzzy-neural" target="_blank">https://github.com/bsrahmat/fuzzy-neural</a>
+
+<br>
+
 ### Bib-tex file to cite this book:
 
 - <a href="https://github.com/bsrahmat/ebook-01/blob/main/EBook01_Fuzzy_JST.bib" target="_blank">EBook01_Fuzzy_JST.bib</a>
+
+<br>
+
